@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 📫 How to reach me **MarieKirtonDaike@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I speak Japanese**
 
