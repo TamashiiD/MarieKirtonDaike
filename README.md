@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marie Kirton-Daike</h1>
+<h1 align="center">Hi 👋, I'm Tamashii </h1>
 <h3 align="center">A passionate full-stack developer from New York City</h3>
 
 - 🔭 I’m currently working on **Passing the GCA**
